@@ -8,7 +8,7 @@
 [<img align="left" alt="adam tan" width="30px" 
 src="https://user-images.githubusercontent.com/69633814/97322052-b5796380-186f-11eb-820a-ad1b720c49d3.png" />][linkedin]
 
-[linkedin]: linkedin.com/in/jorg-vervaet/
+[linkedin]: https://linkedin.com/in/jorg-vervaet/
 
 <br />
 
